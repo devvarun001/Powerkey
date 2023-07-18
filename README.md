@@ -1,4 +1,4 @@
-# Powekey
+# Powerkey
 Keylogger in C++ for Windows
 Powekey is powerful keylogger made in C++ By Varun 
 capture Windows Keypad & Get Users Passwords & KeyBoard Information
